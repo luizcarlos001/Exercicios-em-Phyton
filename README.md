@@ -1,0 +1,2 @@
+# Exercicios-em-Phyton
+Treinando
