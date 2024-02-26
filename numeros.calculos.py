@@ -1,0 +1,7 @@
+n = float(input("Digite um número: \n"  ))
+print("O sucessor de {} é {} \n" .format(n, n+1))
+print("O antecessor de {} é {} \n" .format(n, n-1))
+print("O dobro de {} é {}\n" .format(n, n*2))
+print("O triplo de {} é {} \n" .format(n, n*3))
+print("A raiz quadrada de {} é {:.2f}  \n" .format(n, n**(1/2)))
+print("A raiz cúbica de {} é {:.2f} \n" .format(n, n**(1/3)))
